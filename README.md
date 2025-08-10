@@ -13,7 +13,7 @@ bash
 https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=CITY_NAME
 
 ## Step 3: Connect Power BI to WeatherAPI
-Open Power BI Desktop.
+Open Power BI Desktop
 
 Click Get Data → Web.
 
