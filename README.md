@@ -41,7 +41,6 @@ Add:
 
 ✅ Charts for daily variations.
 
-And you can also set up filters/slicers for different cities.
 
 ## Step 6: Styling & Interactivity
 Insert icons representing the current weather.
