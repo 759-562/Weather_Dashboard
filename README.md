@@ -37,9 +37,9 @@ Add:
 
 ✅Cards for temperature, humidity, etc
 
-✅ Gauges for wind speed.
+✅ Gauges for wind speed
 
-✅ Charts for daily variations.
+✅ Charts for daily variations
 
 
 ## Step 6: Styling & Interactivity
