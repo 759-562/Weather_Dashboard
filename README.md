@@ -1,4 +1,5 @@
 # Weather_Dashboard
+![](screenshot.png)
 ## Step 1: Get Your WeatherAPI Key
 Sign up at WeatherAPI.com, then copy your API key.
 
