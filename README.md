@@ -35,7 +35,7 @@ Click Close & Apply.
 ## Step 5: Build Your Dashboard
 Add:
 
-✅Cards for temperature, humidity, etc.
+✅Cards for temperature, humidity, etc
 
 ✅ Gauges for wind speed.
 
